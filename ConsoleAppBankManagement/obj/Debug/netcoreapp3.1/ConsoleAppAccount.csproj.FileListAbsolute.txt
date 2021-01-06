@@ -1,0 +1,13 @@
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\bin\Debug\netcoreapp3.1\ConsoleAppAccount.exe
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\bin\Debug\netcoreapp3.1\ConsoleAppAccount.deps.json
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\bin\Debug\netcoreapp3.1\ConsoleAppAccount.runtimeconfig.json
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\bin\Debug\netcoreapp3.1\ConsoleAppAccount.runtimeconfig.dev.json
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\bin\Debug\netcoreapp3.1\ConsoleAppAccount.dll
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\bin\Debug\netcoreapp3.1\ConsoleAppAccount.pdb
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\obj\Debug\netcoreapp3.1\ConsoleAppAccount.csprojAssemblyReference.cache
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\obj\Debug\netcoreapp3.1\ConsoleAppAccount.AssemblyInfoInputs.cache
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\obj\Debug\netcoreapp3.1\ConsoleAppAccount.AssemblyInfo.cs
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\obj\Debug\netcoreapp3.1\ConsoleAppAccount.csproj.CoreCompileInputs.cache
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\obj\Debug\netcoreapp3.1\ConsoleAppAccount.dll
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\obj\Debug\netcoreapp3.1\ConsoleAppAccount.pdb
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppAccount\obj\Debug\netcoreapp3.1\ConsoleAppAccount.genruntimeconfig.cache
