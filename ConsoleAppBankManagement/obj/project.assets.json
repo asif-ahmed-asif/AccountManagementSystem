@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppAccount\\ConsoleAppAccount.csproj",
-      "projectName": "ConsoleAppAccount",
-      "projectPath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppAccount\\ConsoleAppAccount.csproj",
+      "projectUniqueName": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppBankManagement.csproj",
+      "projectName": "ConsoleAppBankManagement",
+      "projectPath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppBankManagement.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppAccount\\obj\\",
+      "outputPath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

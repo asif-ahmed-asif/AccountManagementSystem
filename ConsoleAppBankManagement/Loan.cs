@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleAppAccount
+namespace ConsoleAppBankManagement
 {
     internal class Loan : Account
     {

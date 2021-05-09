@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleAppAccount
+namespace ConsoleAppBankManagement
 {
     internal static class FinancialAccount
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PBalMoHQ017O0MgsMqKRCv5fGjwsIIFoIAoODLEkNdNSeKodhS+uISmMjeeqntB20xxZWa0Djuqr9awvs3m2ag==",
+  "dgSpecHash": "qWe0cDhOEIDZcJ5DDr+0Mc7s13xYmlm23Kvh9OyBpdgc+uva1qJwVXkcmaV7NxzT0ROrn9OKEQy8JhYX3LA2+Q==",
   "success": true,
-  "projectFilePath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppAccount\\ConsoleAppAccount.csproj",
+  "projectFilePath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppBankManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

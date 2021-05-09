@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppAccount.csproj": {}
+    "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppBankManagement.csproj": {}
   },
   "projects": {
-    "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppAccount.csproj": {
+    "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppBankManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppAccount.csproj",
-        "projectName": "ConsoleAppAccount",
-        "projectPath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppAccount.csproj",
+        "projectUniqueName": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppBankManagement.csproj",
+        "projectName": "ConsoleAppBankManagement",
+        "projectPath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\ConsoleAppBankManagement.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "E:\\Codes\\C# codes\\ConsoleAppAccount\\ConsoleAppBankManagement\\obj\\",
         "projectStyle": "PackageReference",

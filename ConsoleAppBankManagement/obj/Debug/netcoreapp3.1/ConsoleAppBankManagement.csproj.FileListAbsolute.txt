@@ -1,0 +1,13 @@
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\bin\Debug\netcoreapp3.1\ConsoleAppBankManagement.exe
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\bin\Debug\netcoreapp3.1\ConsoleAppBankManagement.deps.json
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\bin\Debug\netcoreapp3.1\ConsoleAppBankManagement.runtimeconfig.json
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\bin\Debug\netcoreapp3.1\ConsoleAppBankManagement.runtimeconfig.dev.json
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\bin\Debug\netcoreapp3.1\ConsoleAppBankManagement.dll
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\bin\Debug\netcoreapp3.1\ConsoleAppBankManagement.pdb
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\obj\Debug\netcoreapp3.1\ConsoleAppBankManagement.csprojAssemblyReference.cache
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\obj\Debug\netcoreapp3.1\ConsoleAppBankManagement.AssemblyInfoInputs.cache
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\obj\Debug\netcoreapp3.1\ConsoleAppBankManagement.AssemblyInfo.cs
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\obj\Debug\netcoreapp3.1\ConsoleAppBankManagement.csproj.CoreCompileInputs.cache
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\obj\Debug\netcoreapp3.1\ConsoleAppBankManagement.dll
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\obj\Debug\netcoreapp3.1\ConsoleAppBankManagement.pdb
+E:\Codes\C# codes\ConsoleAppAccount\ConsoleAppBankManagement\obj\Debug\netcoreapp3.1\ConsoleAppBankManagement.genruntimeconfig.cache
